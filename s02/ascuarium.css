@@ -1,0 +1,16 @@
+.ascuarium {
+}
+.ascuarium .line {
+  display: flex;
+}
+.ascuarium .line .cell {
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+  font-weight: bold;
+  width: 16px;
+  height: 16px;
+  border: 1px solid black;
+  box-sizing: border-box;
+  color: red;
+}

@@ -5,16 +5,21 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/karma/bin/karma start ./test.conf.js",
-    "benchmark": "./node_modules/karma/bin/karma start ./benchmark.conf.js"
+    "benchmark": "./node_modules/karma/bin/karma start ./benchmark.conf.js",
+    "start": "webpack-dev-server",
+    "build": "webpack build"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "benchmark": "2.1.4",
+    "clean-webpack-plugin": "1.0.0",
+    "css-loader": "2.0.0",
     "eslint": "5.10.0",
     "eslint-config-airbnb-base": "13.1.0",
     "eslint-plugin-import": "2.14.0",
     "eslint-plugin-jasmine": "2.10.1",
+    "html-webpack-plugin": "4.0.0-beta.3",
     "jasmine-core": "3.3.0",
     "karma": "3.1.3",
     "karma-benchmark": "1.0.0",
@@ -23,6 +28,9 @@
     "karma-jasmine": "2.0.1",
     "karma-jasmine-html-reporter": "1.4.0",
     "karma-webpack": "3.0.5",
-    "webpack": "4.27.1"
+    "style-loader": "0.23.1",
+    "webpack": "4.27.1",
+    "webpack-cli": "3.1.2",
+    "webpack-dev-server": "3.1.10"
   }
 }
