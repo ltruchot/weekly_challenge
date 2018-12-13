@@ -2,7 +2,7 @@
 
 Pour Noël, mon neveu de 6 ans veut absolument un aquarium.
 
-Déjà, c'est pas végan. En plus, ce petit morveux ne sait même pas faire ses lacets, alors s'occuper d'un seul d'éco-système marin...
+Déjà, c'est pas végan. En plus, ce petit morveux ne sait même pas faire ses lacets, alors s'occuper seul d'un d'éco-système marin...
 
 Donc ce que je propose, c'est de lui offrir un _acquarium virtuel_, et ouais mon pote.
 
@@ -12,6 +12,7 @@ Je compte donc sur vous pour créer un aquarium dynamique en ASCII (et/ou unicod
 
 ## Voici les consignes :
 
+- une seulo function permettra de creer tour l'aquarium en l'executant (sans param, ni mot clef « new »)
 - pas de framework, pas de librairies, rien
 - 1 seul fichier JS de 300 lignes max
 - 1 seul fichier CSS de 100 lignes max
