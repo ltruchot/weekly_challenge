@@ -4,7 +4,7 @@ Pour Noël, mon neveu de 6 ans veut absolument un aquarium.
 
 Déjà, c'est pas végan. En plus, ce petit morveux ne sait même pas faire ses lacets, alors s'occuper seul d'un d'éco-système marin...
 
-Donc ce que je propose, c'est de lui offrir un _acquarium virtuel_, et ouais mon pote.
+Donc ce que je propose, c'est de lui offrir un _aquarium virtuel_, et ouais mon pote.
 
 Malheureusement, je vais être en vacances, j'aurais donc pas le temps de faire ça sur mes heures de boulot !
 
